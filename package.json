@@ -2,7 +2,6 @@
   "name": "react-3d",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "/threejs-outcomes/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-app-rewired build"
