@@ -80,6 +80,12 @@ const workList = [
         image: require("./images/firstBlenderExercise.png")
     },
     {
+        link: "https://upward7.github.io/marbleRace/",
+        title: "Marble Race",
+        description: "赛跑游戏",
+        image: require("./images/marbleRace.png")
+    },
+    {
         link: "https://upward7.github.io/3d-gallery/dist/index.html",
         title: "3D虚拟展馆",
         description: "chiikawa画廊",
